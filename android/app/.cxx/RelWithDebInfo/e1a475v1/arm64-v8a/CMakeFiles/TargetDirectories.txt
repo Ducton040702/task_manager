@@ -1,0 +1,2 @@
+/Users/ducton7741/Documents/ducton7741/task_manager/android/app/.cxx/RelWithDebInfo/e1a475v1/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/ducton7741/Documents/ducton7741/task_manager/android/app/.cxx/RelWithDebInfo/e1a475v1/arm64-v8a/CMakeFiles/rebuild_cache.dir
